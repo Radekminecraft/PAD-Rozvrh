@@ -1,0 +1,5 @@
+*-0800|0845;Fyzika-0855|0940;Matematika-1000|1045;Zaklady elektrotechniky-1055|1140;Cesky jazyk a literatura-1150|1235;Automatizace-1340|1425;Automatizace-1245|1330;*-1435|1520;*-1530|1615;
+Cesky jazyk a literatura-0800|0845;Anglicky jazyk-0855|0940;Fyzika-1000|1045;*-1055|1140;Nemecky jazyk-1150|1235;Grafika a webdesign-1245|1330;Grafika a webdesign-1340|1425;*-1435|1520;*-1530|1615;
+Automatizace-0800|0845;Zaklady prirodnich ved-0855|0940;Telesna vychova-1000|1045;Zaklady elektrotechniky-1055|1140;Matematika-1150|1235;Anglicky jazyk-1245|1330;*-1340|1425;Programovani a databaze-1435|1520;Programovani a databaze-1530|1615;
+Cesky jazyk a literatura-0800|0845;Matematika-0855|0940;Ekonomika-1000|1045;Zpracovani textu a dat-1055|1140;Zpracovani textu a dat-1150|1235;Technicke vybaveni-1245|1330;*-1340|1425;*-1435|1520;*-1530|1615;
+Zaklady prirodnich ved-0800|0845;Ekonomika-0855|0940;Anglicky jazyk-1000|1045;*-1055|1140;Matematika-1150|1235;Telesna vychova-1245|1330;Prakticka cviceni-1340|1425;Prakticka cviceni-1435|1520;*-1530|1615;
