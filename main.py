@@ -18,7 +18,7 @@ def getClasses(file):
     return days
 def getClassByDate(day, hour, minute, classes):
     #Day, time format D/HH/MM
-    if hour > 23 or hour < 0 or minute > 59 or minute < 0:
+    if int(hour)>23 or int(hour)<0 or int(minute)>59 or int(minute)<0:
         return "Zadal jsi neplatný čas"
     time = int(str(hour) + str(minute))
     clazzez = classes.get(day)
